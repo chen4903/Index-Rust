@@ -1,0 +1,6 @@
+[package]
+name = "code_03_self"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
