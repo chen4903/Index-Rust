@@ -1,4 +1,5 @@
 mod inline_buf;
+mod demo2;
 
 mod tests {
     #[allow(dead_code)]
